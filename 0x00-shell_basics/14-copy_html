@@ -1,2 +1,2 @@
 #!/bin/bash
-15 mv [[:upper:]]* /tmp/u
+14 cp -u *.html ..
