@@ -1,2 +1,2 @@
 #!/bin/bash
-ls;ls .. ;sudo ls /root
+ls -a;ls -a .. ;sudo ls -a /root
